@@ -1,0 +1,9 @@
+group_id:108AC1014 group_leader:林詩涵 advisor:高立人尚未評分
+group_id:109360203 group_leader:童浚哲 advisor:高立人尚未評分
+group_id:109360232 group_leader:顏翊真 advisor:高立人尚未評分
+group_id:109360146 group_leader:郭子嘉 advisor:楊濠瞬尚未評分
+group_id:109360742 group_leader:鄭劭祺 advisor:蔡偉和尚未評分
+group_id:108362503 group_leader:陳威合 advisor:胡心卉尚未評分
+group_id:108362552 group_leader:辛科誼 advisor:譚巽言尚未評分
+group_id:109360755 group_leader:劉瀚仁 advisor:高立人尚未評分
+group_id:108362543 group_leader:李承彥 advisor:高立人尚未評分
